@@ -1,5 +1,8 @@
 # COWAKÉ
 
+
+https://yoshikai.net/cowake/en
+
 COWAKÉ is an application that generates the number of rooms, the number of people assigned, and the combination table so that members will never meet with the same person again, when you divide the participants into several rooms (groups) and have several breakout sessions.
 
 ### How to use it
