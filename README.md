@@ -1,5 +1,6 @@
 # COWAKÉ
 
+<img src="cowake.png" width="400">
 
 https://yoshikai.net/cowake/en
 
