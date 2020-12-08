@@ -18,6 +18,9 @@ COWAKÉ is an application that generates the number of rooms, the number of peop
 * Send your comments to takuto.yoshikai@gmail.com
 
 
+
+
+
 COWAKÉ（こわけ）は、参加者をいくつかの部屋（グループ）に分けて何回かブレイクアウトセッションをするようなとき、同じ人と二度と会わないような部屋数・割り当て人数・組み合わせ表を生成するアプリケーションです。
 
 ### 使い方
