@@ -1,5 +1,3 @@
-# COWAKÉ
-
 <img src="cowake.png" width="300">
 
 ## English ver
