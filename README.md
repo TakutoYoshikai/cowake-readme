@@ -16,7 +16,6 @@ COWAKÉ is an application that generates the number of rooms, the number of peop
 ### Disclaimers, etc.
 * Since this application does not leave any input information on the server, it does not collect any personal information.
 * Use the application at your own risk. We are not responsible for any damage caused by this application.
-* Send your comments to takuto.yoshikai@gmail.com
 
 
 ## 日本語版
@@ -35,6 +34,5 @@ COWAKÉ（こわけ）は、参加者をいくつかの部屋（グループ）�
 ### 免責事項など
 * このアプリケーションはサーバーに入力情報を残さない仕組みであるため、個人情報は一切取得しません。
 * ご利用者の責任においてご利用ください。本アプリケーションによって損害が発生したとしても、製作者は一切責任を負いません。
-* ご意見・ご感想は takuto.yoshikai@gmail.com までどうぞ
 
 
